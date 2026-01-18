@@ -1,0 +1,14 @@
+{
+  "template_sidebar_01": {
+    "name": "Executive Sidebar",
+    "category": "Executive",
+    "requiredFields": ["name", "title", "experience"],
+    "optionalFields": ["skills", "photo"]
+  },
+  "template_sidebar_02": {
+    "name": "Professional Sidebar",
+    "category": "Professional",
+    "requiredFields": ["name", "education", "experience"],
+    "optionalFields": ["skills"]
+  }
+}
